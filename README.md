@@ -9,26 +9,37 @@ Experienced software engineer / tech lead with over a decade of experience in de
 - 🧠 **Knowledge**: Deep understanding of software engineering principles and agile methodologies.
 - 🛠 **Tech Stack**: PHP (Laravel & Zend Framework), SQL (MySQL & Postgres, VueJS & Angular, MongoDB, AWS Stack EC2, Aurora, Redshift, DynamoDB, S3, SQS, SMS, Docker, TDD and more.
 
+
+
 <div align="center">
-<p align="center">Let's Connect & Grow Together </p>
-
-<a href="https://www.linkedin.com/in/cleytonbonamigo/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:cleytonbonamigo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-BF211D?style=for-the-badge&logo=Google&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/CleytonBonamigo/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://www.twitter.com/CleytonBonamigo/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-
+    <p align="center">Let's Connect & Grow Together </p>
+    
+    <a href="https://www.linkedin.com/in/cleytonbonamigo/" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    
+    <a href="mailto:cleytonbonamigo@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-BF211D?style=for-the-badge&logo=Google&logoColor=white" />
+    </a>
+    
+    <a href="https://www.instagram.com/CleytonBonamigo/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+    
+    <a href="https://www.twitter.com/CleytonBonamigo/" target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
 </div>
+
+##
+ 
+<div align="center"><br>
+  <a href="https://github.com/CleytonBonamigo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CleytonBonamigo&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleytonBonamigo&layout=compact&langs_count=7&theme=city_lights"/>
+</div>
+
+## 
 
 <!--
 **CleytonBonamigo/CleytonBonamigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
