@@ -31,7 +31,7 @@ Experienced software engineer / tech lead with over a decade of experience in de
 </a>
 </div>
 
-## 🛠 ** My Open Source Projects **
+## 🛠 **My Open Source Projects**
 Please take a look into my projects and if you feel comfortable, consider to join me! <br/>
 🧪 [PHP Coding Challenges](https://github.com/CleytonBonamigo/php-coding-challenges) - Solve problems from Leetcode and others with PHP. <br/>
 🧪 [Laravel YouTube Downloader](https://github.com/CleytonBonamigo/laravel-youtube-downloader) - Laravel package to Download an YouTube video. <br/>
