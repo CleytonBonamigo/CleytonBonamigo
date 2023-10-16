@@ -37,6 +37,7 @@ Please take a look into my projects and if you feel comfortable, consider to joi
 🧪 [Laravel YouTube Downloader](https://github.com/CleytonBonamigo/laravel-youtube-downloader) - Laravel package to Download an YouTube video. <br/>
 🧪 [Share Twitter](https://github.com/CleytonBonamigo/share-twitter) - Combination of API V1 and V2 for PHP with CURL to share images and Twitter posts. <br/>
 🧪 [Remove BG](https://github.com/CleytonBonamigo/removebg) - Python package to remove background of images. <br/>
+🧪 [Simple Python API](https://github.com/CleytonBonamigo/simple-python-api) - Flask API project primarily intended for study and learning purposes. <br/>
 
 ##
  
